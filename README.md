@@ -1,3 +1,3 @@
 # Transacation-Fraud-Detection
 
-Prediction of potential online fraudulent transaction
+Prediction of potential online fraudulent transactions
